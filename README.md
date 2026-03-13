@@ -43,3 +43,4 @@ python star_vanguard.py
 ## Technical
 
 Built with Python and Pygame. No external assets required.
+# Daily update 2026-03-12
